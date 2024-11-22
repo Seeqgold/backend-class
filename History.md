@@ -1,0 +1,1 @@
+This is the very beginnig of connecting your folder to the github server
